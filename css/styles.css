@@ -1,4 +1,17 @@
-.column {
+.column1 {
   width: 33%;
   float: left;
+  background-color: red;
+}
+
+.column2 {
+  width: 33%;
+  float: left;
+  background-color: green;
+}
+
+.column3 {
+  width: 33%;
+  float: left;
+  background-color: blue;
 }
